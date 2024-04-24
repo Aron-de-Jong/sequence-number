@@ -1,9 +1,15 @@
 {
   "name": "sequence-number-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manages the Sequence Number state",
   "scripts": {
     "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {
+      "^.+\\.ts$": "ts-jest"
+    }
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",

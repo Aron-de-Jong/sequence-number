@@ -1,1 +1,1 @@
-export { SequenceNumberState } from '@/sequenceNumberState';
+export { SequenceNumberState } from './sequenceNumberState';

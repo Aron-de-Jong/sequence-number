@@ -1,4 +1,4 @@
-import {SequenceNumberState} from "@/sequenceNumberState";
+import { SequenceNumberState } from "./sequenceNumberState";
 
 describe('SequenceNumberState', () => {
   it('should return the next number when calling nextNumber getter; the current number property is idempotent', () => {
