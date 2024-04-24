@@ -1,0 +1,1 @@
+A small and simple TypeScript SequenceNumber utility method to manage SequenceNumber state.

@@ -1,7 +1,7 @@
 {
-  "name": "sequence-number",
+  "name": "sequence-number-state",
   "version": "1.0.0",
-  "description": "Manages the Sequence Number state ",
+  "description": "Manages the Sequence Number state",
   "scripts": {
     "test": "jest"
   },
